@@ -1,0 +1,6 @@
+---
+- name: Just a random exercise
+  hosts: localhost
+
+  roles:
+    - print
